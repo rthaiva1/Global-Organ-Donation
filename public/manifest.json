@@ -1,0 +1,8 @@
+{
+  "short_name": "Blockchain DAAP",
+  "name": "Organ Donation in blockchain",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

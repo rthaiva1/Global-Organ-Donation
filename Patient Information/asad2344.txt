@@ -1,0 +1,13 @@
+Donar Information:
+Patient Name: David
+Age: 26
+Blood Type: A
+Medical Emergency: 4
+Operation Eligibility : True
+
+Recepient Information:
+Patient Name: Brenda
+Age: 52
+Blood Type: A
+Medical Emergency: NA
+Operation Eligibility : True

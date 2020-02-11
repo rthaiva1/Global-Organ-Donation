@@ -1,0 +1,13 @@
+Donar Information:
+Patient Name: Alan
+Age: 26
+Blood Type: A
+Medical Emergency: 4
+Operation Eligibility : True
+
+Recepient Information:
+Patient Name: Jim
+Age: 52
+Blood Type: A
+Medical Emergency: NA
+Operation Eligibility : True
